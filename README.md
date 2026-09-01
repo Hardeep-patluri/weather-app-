@@ -79,7 +79,7 @@ Weather-App
 
 OpenWeatherMap API
 https://openweathermap.org/api
-
+copyright to hardeep p 
 ---
 
 
